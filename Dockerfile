@@ -9,3 +9,6 @@ RUN pip install --upgrade pip
 RUN pip install pycodestyle
 
 CMD ["pycodestyle", "/github/workspace/"]
+cmd pip install  upgrade by
+cdm power to market and rechare to power and mainto con
+
